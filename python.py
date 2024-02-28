@@ -4,4 +4,4 @@ i=1
 while(i<=n):
   f=f*i
   i=i+1
-print("the factorai of",n,f)
+print("the factorial of",n,f)
